@@ -17,8 +17,8 @@
     "relatedBookIds": [1, 2, 3],
     "youtube": ["https://www.youtube.com/watch?v=Y1M6hJHHrjM"],
     "files": {
-      "pdf": "#",
-      "word": "#"
+      "pdf": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.pdf#lang=en",
+      "word": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.pdf#lang=en"
     }
   },
   {
@@ -39,8 +39,8 @@
     "relatedBookIds": [1, 4],
     "youtube": ["https://www.youtube.com/watch?v=Y1M6hJHHrjM"],
     "files": {
-      "pdf": "#",
-      "word": "#"
+      "pdf": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.pdf#lang=en",
+      "word": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.pdf#lang=en"
     }
   },
   {
@@ -61,8 +61,8 @@
     "relatedBookIds": [4, 5],
     "youtube": ["https://www.youtube.com/watch?v=Y1M6hJHHrjM"],
     "files": {
-      "pdf": "#",
-      "word": "#"
+      "pdf": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.pdf#lang=en",
+      "word": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.pdf#lang=en"
     }
   }
 ]

@@ -147,6 +147,31 @@
             : "No related videos."
         )}</div>`;
 
+    const downloadsHtml = a.files
+      ? `
+  <div class="d-flex gap-2 flex-wrap mt-3">
+    ${
+      a.files.pdf
+        ? `<a href="${safeText(
+            a.files.pdf
+          )}" target="_blank" class="btn btn-sm btn-outline-danger">
+             <i class="fa-solid fa-file-pdf me-1"></i> PDF
+           </a>`
+        : ""
+    }
+    ${
+      a.files.word
+        ? `<a href="${safeText(
+            a.files.word
+          )}" target="_blank" class="btn btn-sm btn-outline-primary">
+             <i class="fa-solid fa-file-word me-1"></i> Word
+           </a>`
+        : ""
+    }
+  </div>
+  `
+      : "";
+
     const html = `
       <div class="d-flex align-items-center justify-content-between flex-wrap gap-2">
         <div class="d-flex align-items-center gap-2">
@@ -163,6 +188,7 @@
         <h2 class="m-0" style="font-weight:900;">${safeText(
           a.title[state.lang] || a.title.en
         )}</h2>
+        ${downloadsHtml}
         <div class="muted mt-2" style="font-size:13px;">
           <i class="fa-regular fa-clock me-1"></i>${safeText(a.date || "—")}
         </div>
