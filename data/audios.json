@@ -1,0 +1,36 @@
+[
+  {
+    "id": 301,
+    "showSideBar": false,
+    "title": {
+      "en": "Daily Dua Collection",
+      "ar": "مجموعة أدعية يومية"
+    },
+    "desc": {
+      "en": "Short duas with meaning.",
+      "ar": "أدعية قصيرة مع المعنى."
+    },
+    "audioUrl": "https://server8.mp3quran.net/afs/002.mp3",
+    "files": {
+      "mp3": "https://server8.mp3quran.net/afs/002.mp3"
+    },
+    "url": "https://server8.mp3quran.net/afs/002.mp3"
+  },
+  {
+    "id": 302,
+    "showSideBar": false,
+    "title": {
+      "en": "Surah Al-Fatiha",
+      "ar": "سورة الفاتحة"
+    },
+    "desc": {
+      "en": "Recitation with clear audio.",
+      "ar": "تلاوة بصوت واضح."
+    },
+    "audioUrl": "https://server8.mp3quran.net/afs/002.mp3",
+    "files": {
+      "mp3": "https://server8.mp3quran.net/afs/002.mp3"
+    },
+    "url": "https://server8.mp3quran.net/afs/002.mp3"
+  }
+]

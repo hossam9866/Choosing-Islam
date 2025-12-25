@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "showSideBar": true,
+    "cover": "https://www.allahsword.com/images/books/quran/Usool_At-Tafseer.jpg",
+    "pdfPreviewImage": "https://www.allahsword.com/images/books/quran/Usool_At-Tafseer.jpg",
+    "title": {
+      "en": "Basics of Islam",
+      "ar": "مبادئ الإسلام"
+    },
+    "desc": {
+      "en": "A clear introduction to core beliefs and worship.",
+      "ar": "مقدمة واضحة للعقيدة والعبادة."
+    },
+    "files": {
+      "pdf": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.pdf",
+      "word": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.docx"
+    },
+    "filesByLang": {
+      "en": {
+        "pdf": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.pdf#lang=en",
+        "word": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.docx?lang=en"
+      },
+      "ar": {
+        "pdf": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.pdf#lang=ar",
+        "word": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.docx?lang=ar"
+      },
+      "fr": {
+        "pdf": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.pdf#lang=fr",
+        "word": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.docx?lang=fr"
+      },
+      "ur": {
+        "pdf": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.pdf#lang=ur",
+        "word": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.docx?lang=ur"
+      },
+      "id": {
+        "pdf": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.pdf#lang=id",
+        "word": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.docx?lang=id"
+      }
+    }
+  },
+  {
+    "id": 2,
+    "showSideBar": true,
+    "cover": "https://www.allahsword.com/images/books/quran/Usool_At-Tafseer.jpg",
+    "pdfPreviewImage": "https://www.allahsword.com/images/books/quran/Usool_At-Tafseer.jpg",
+    "title": {
+      "en": "The Prophet’s Character",
+      "ar": "أخلاق النبي ﷺ"
+    },
+    "desc": {
+      "en": "Lessons from the Seerah and daily conduct.",
+      "ar": "دروس من السيرة والسلوك اليومي."
+    },
+    "files": {
+      "pdf": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.pdf",
+      "word": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.docx"
+    },
+    "filesByLang": {
+      "en": {
+        "pdf": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.pdf#lang=en",
+        "word": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.docx?lang=en"
+      },
+      "ar": {
+        "pdf": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.pdf#lang=ar",
+        "word": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.docx?lang=ar"
+      },
+      "fr": {
+        "pdf": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.pdf#lang=fr",
+        "word": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.docx?lang=fr"
+      },
+      "ur": {
+        "pdf": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.pdf#lang=ur",
+        "word": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.docx?lang=ur"
+      },
+      "id": {
+        "pdf": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.pdf#lang=id",
+        "word": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.docx?lang=id"
+      }
+    }
+  },
+  {
+    "id": 3,
+    "showSideBar": false,
+    "cover": "https://www.allahsword.com/images/books/quran/Usool_At-Tafseer.jpg",
+    "pdfPreviewImage": "https://www.allahsword.com/images/books/quran/Usool_At-Tafseer.jpg",
+    "title": {
+      "en": "Faith & Heart",
+      "ar": "الإيمان والقلب"
+    },
+    "desc": {
+      "en": "Strengthening faith with practical guidance.",
+      "ar": "تقوية الإيمان بإرشادات عملية."
+    },
+    "files": {
+      "pdf": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.pdf",
+      "word": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.docx"
+    },
+    "filesByLang": {
+      "en": {
+        "pdf": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.pdf#lang=en",
+        "word": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.docx?lang=en"
+      },
+      "ar": {
+        "pdf": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.pdf#lang=ar",
+        "word": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.docx?lang=ar"
+      },
+      "fr": {
+        "pdf": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.pdf#lang=fr",
+        "word": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.docx?lang=fr"
+      },
+      "ur": {
+        "pdf": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.pdf#lang=ur",
+        "word": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.docx?lang=ur"
+      },
+      "id": {
+        "pdf": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.pdf#lang=id",
+        "word": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.docx?lang=id"
+      }
+    }
+  },
+  {
+    "id": 4,
+    "showSideBar": false,
+    "cover": "https://www.allahsword.com/images/books/quran/Usool_At-Tafseer.jpg",
+    "pdfPreviewImage": "https://www.allahsword.com/images/books/quran/Usool_At-Tafseer.jpg",
+    "title": {
+      "en": "Prayer Step-by-Step",
+      "ar": "الصلاة خطوة بخطوة"
+    },
+    "desc": {
+      "en": "How to pray with clarity and confidence.",
+      "ar": "كيفية الصلاة بوضوح وثقة."
+    },
+    "files": {
+      "pdf": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.pdf",
+      "word": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.docx"
+    },
+    "filesByLang": {
+      "en": {
+        "pdf": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.pdf#lang=en",
+        "word": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.docx?lang=en"
+      },
+      "ar": {
+        "pdf": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.pdf#lang=ar",
+        "word": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.docx?lang=ar"
+      },
+      "fr": {
+        "pdf": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.pdf#lang=fr",
+        "word": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.docx?lang=fr"
+      },
+      "ur": {
+        "pdf": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.pdf#lang=ur",
+        "word": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.docx?lang=ur"
+      },
+      "id": {
+        "pdf": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.pdf#lang=id",
+        "word": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.docx?lang=id"
+      }
+    }
+  },
+  {
+    "id": 5,
+    "showSideBar": true,
+    "cover": "https://www.allahsword.com/images/books/quran/Usool_At-Tafseer.jpg",
+    "pdfPreviewImage": "https://www.allahsword.com/images/books/quran/Usool_At-Tafseer.jpg",
+    "title": {
+      "en": "Islamic Ethics",
+      "ar": "الأخلاق الإسلامية"
+    },
+    "desc": {
+      "en": "A practical guide to Muslim character.",
+      "ar": "دليل عملي لشخصية المسلم."
+    },
+    "files": {
+      "pdf": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.pdf",
+      "word": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.docx"
+    },
+    "filesByLang": {
+      "en": {
+        "pdf": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.pdf#lang=en",
+        "word": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.docx?lang=en"
+      },
+      "ar": {
+        "pdf": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.pdf#lang=ar",
+        "word": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.docx?lang=ar"
+      },
+      "fr": {
+        "pdf": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.pdf#lang=fr",
+        "word": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.docx?lang=fr"
+      },
+      "ur": {
+        "pdf": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.pdf#lang=ur",
+        "word": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.docx?lang=ur"
+      },
+      "id": {
+        "pdf": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.pdf#lang=id",
+        "word": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.docx?lang=id"
+      }
+    }
+  },
+  {
+    "id": 6,
+    "showSideBar": false,
+    "cover": "https://www.allahsword.com/images/books/quran/Usool_At-Tafseer.jpg",
+    "pdfPreviewImage": "https://www.allahsword.com/images/books/quran/Usool_At-Tafseer.jpg",
+    "title": {
+      "en": "Knowing Allah",
+      "ar": "معرفة الله"
+    },
+    "desc": {
+      "en": "Understanding Allah’s names and attributes.",
+      "ar": "فهم أسماء الله وصفاته."
+    },
+    "files": {
+      "pdf": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.pdf",
+      "word": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.docx"
+    },
+    "filesByLang": {
+      "en": {
+        "pdf": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.pdf#lang=en",
+        "word": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.docx?lang=en"
+      },
+      "ar": {
+        "pdf": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.pdf#lang=ar",
+        "word": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.docx?lang=ar"
+      },
+      "fr": {
+        "pdf": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.pdf#lang=fr",
+        "word": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.docx?lang=fr"
+      },
+      "ur": {
+        "pdf": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.pdf#lang=ur",
+        "word": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.docx?lang=ur"
+      },
+      "id": {
+        "pdf": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.pdf#lang=id",
+        "word": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.docx?lang=id"
+      }
+    }
+  }
+]

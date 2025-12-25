@@ -1,0 +1,52 @@
+{
+  "resources": [
+    {
+      "id": 401,
+      "title": {
+        "en": "Quran PDF (Arabic)",
+        "ar": "القرآن PDF (عربي)"
+      },
+      "files": {
+        "pdf": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.pdf",
+        "word": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.docx"
+      }
+    },
+    {
+      "id": 402,
+      "title": {
+        "en": "Quran Translation PDF (English)",
+        "ar": "ترجمة القرآن PDF (إنجليزي)"
+      },
+      "files": {
+        "pdf": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.pdf",
+        "word": "https://www.allahsword.com/ebooks/Quran/alliance-disavowal.docx"
+      }
+    }
+  ],
+  "surahsSample": [
+    {
+      "id": 1,
+      "name": {
+        "en": "Al-Fatiha",
+        "ar": "الفاتحة"
+      },
+      "ayat": 7
+    },
+    {
+      "id": 2,
+      "name": {
+        "en": "Al-Baqarah",
+        "ar": "البقرة"
+      },
+      "ayat": 286
+    },
+    {
+      "id": 3,
+      "name": {
+        "en": "Aal-Imran",
+        "ar": "آل عمران"
+      },
+      "ayat": 200
+    }
+  ]
+}

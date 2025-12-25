@@ -1,0 +1,30 @@
+[
+  {
+    "id": 201,
+    "showSideBar": false,
+    "title": {
+      "en": "Introduction to Islam (Short)",
+      "ar": "مقدمة عن الإسلام (مختصر)"
+    },
+    "desc": {
+      "en": "A short introduction for new learners.",
+      "ar": "مقدمة قصيرة للمبتدئين."
+    },
+    "youtubeId": "dQw4w9WgXcQ",
+    "url": "https://www.youtube.com/watch?v=Y1M6hJHHrjM"
+  },
+  {
+    "id": 202,
+    "showSideBar": false,
+    "title": {
+      "en": "Understanding the Quran",
+      "ar": "فهم القرآن"
+    },
+    "desc": {
+      "en": "Basics of reading and reflection.",
+      "ar": "أساسيات القراءة والتدبر."
+    },
+    "youtubeId": "dQw4w9WgXcQ",
+    "url": "https://www.youtube.com/watch?v=Y1M6hJHHrjM"
+  }
+]

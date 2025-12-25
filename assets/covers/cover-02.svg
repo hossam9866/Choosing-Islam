@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1500" viewBox="0 0 1200 1500">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#0f1a2b"/>
+    </linearGradient>
+    <pattern id="star" width="120" height="120" patternUnits="userSpaceOnUse">
+      <path d="M60 10 L74 46 L112 46 L80 70 L92 108 L60 85 L28 108 L40 70 L8 46 L46 46Z" fill="rgba(70,211,154,.18)"/>
+      <circle cx="60" cy="60" r="34" fill="none" stroke="rgba(255,255,255,.10)" stroke-width="2"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="1500" fill="url(#bg)"/>
+  <rect width="1200" height="1500" fill="url(#star)" opacity=".9"/>
+  <circle cx="600" cy="700" r="420" fill="rgba(91,162,255,.08)"/>
+  <path d="M600 330 C760 410 860 560 860 740 C860 970 720 1130 600 1170 C480 1130 340 970 340 740 C340 560 440 410 600 330Z" fill="none" stroke="rgba(255,255,255,.14)" stroke-width="6"/>
+  <text x="600" y="760" text-anchor="middle" font-family="system-ui, -apple-system, Segoe UI, Roboto" font-size="54" fill="rgba(255,255,255,.92)" font-weight="800">Choosing Islam</text>
+  <text x="600" y="825" text-anchor="middle" font-family="system-ui, -apple-system, Segoe UI, Roboto" font-size="26" fill="rgba(169,182,211,.95)">Islamic Educational Library</text>
+</svg>

@@ -1,0 +1,68 @@
+[
+  {
+    "id": 101,
+    "showSideBar": true,
+    "title": {
+      "en": "Why Islam?",
+      "ar": "لماذا الإسلام؟"
+    },
+    "excerpt": {
+      "en": "A gentle overview of purpose, guidance, and mercy.",
+      "ar": "نظرة لطيفة عن الغاية والهداية والرحمة."
+    },
+    "body": {
+      "en": "What the concept means\nWhy it matters for faith\nPractical examples\nCommon misconceptions",
+      "ar": "معنى الفكرة بشكل مبسط\nلماذا هي مهمة للإيمان\nأمثلة عملية\nأخطاء شائعة"
+    },
+    "relatedBookIds": [1, 2, 3],
+    "youtube": ["https://www.youtube.com/watch?v=Y1M6hJHHrjM"],
+    "files": {
+      "pdf": "#",
+      "word": "#"
+    }
+  },
+  {
+    "id": 102,
+    "showSideBar": false,
+    "title": {
+      "en": "The Quran’s Message",
+      "ar": "رسالة القرآن"
+    },
+    "excerpt": {
+      "en": "Key themes of the Quran in simple language.",
+      "ar": "أهم محاور القرآن بلغة بسيطة."
+    },
+    "body": {
+      "en": "Full article content goes here. Replace with API content later.",
+      "ar": "محتوى المقال الكامل هنا. استبدله بمحتوى API لاحقًا."
+    },
+    "relatedBookIds": [1, 4],
+    "youtube": ["https://www.youtube.com/watch?v=Y1M6hJHHrjM"],
+    "files": {
+      "pdf": "#",
+      "word": "#"
+    }
+  },
+  {
+    "id": 103,
+    "showSideBar": true,
+    "title": {
+      "en": "Prayer & Peace",
+      "ar": "الصلاة والسكينة"
+    },
+    "excerpt": {
+      "en": "How prayer nurtures calmness and discipline.",
+      "ar": "كيف تغذي الصلاة الطمأنينة والانضباط."
+    },
+    "body": {
+      "en": "Full article content goes here. Replace with API content later.",
+      "ar": "محتوى المقال الكامل هنا. استبدله بمحتوى API لاحقًا."
+    },
+    "relatedBookIds": [4, 5],
+    "youtube": ["https://www.youtube.com/watch?v=Y1M6hJHHrjM"],
+    "files": {
+      "pdf": "#",
+      "word": "#"
+    }
+  }
+]
