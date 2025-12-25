@@ -79,7 +79,7 @@
             const desc = b.desc?.[state.lang] || b.desc?.en || "";
             const langs = Object.keys(b.filesByLang || b.title || {}).length;
             return `
-            <div class="col-12 col-xl-4">
+            <div class="col-12 col-xl-6">
               <a class="card-soft h-100 d-block hover-rise" href="book.html?id=${
                 b.id
               }">
