@@ -3,15 +3,15 @@
 
   function quickCard(icon, title, href) {
     return `
-      <div class="col-12 col-md-6 col-xl-4">
-        <a class="card-soft p-3 h-100 d-block hover-rise" href="${href}">
+      <div class="home-quick-card">
+        <a class="card-soft h-100 d-block hover-rise" href="${href}">
           <div class="d-flex align-items-center gap-3">
-            <div class="navicon" style="width:48px;height:48px;border-radius:16px;">
+            <div class="navicon">
               <i class="fa-solid ${icon}"></i>
             </div>
             <div>
               <div class="fw-bold">${safeText(title)}</div>
-              <div class="muted" style="font-size:13px;">${safeText(
+              <div class="muted quick-sub" >${safeText(
                 state.lang === "ar" ? "اضغط للاستكشاف" : "Tap to explore"
               )}</div>
             </div>
@@ -62,18 +62,28 @@
     const featured = books.map(featuredBookCard).join("");
 
     const html = `
-      <div class="section-head">
-        <h4 class="mb-1">${safeText(t("home_title"))}</h4>
-        <div class="muted">${safeText(t("home_subtitle"))}</div>
-      </div>
+      <div class="home-dark-panel">
+        <div class="section-head">
+          <h1 class="mb-1">${safeText(t("home_title"))}</h1>
+          <div class="muted">Choosing Islam is a platform dedicated to providing authentic Islamic
+        knowledge through books, articles, Quran resources, videos, and audio
+        content in multiple languages.</div>
+        </div>
 
-      <div class="mt-4">
-        <div class="row g-3">
-          ${quickCard("fa-book-quran", t("section_quran"), "quran.html")}
-          ${quickCard("fa-book", t("section_books"), "books.html")}
-          ${quickCard("fa-newspaper", t("section_articles"), "articles.html")}
-          ${quickCard("fa-video", t("section_videos"), "videos.html")}
-          ${quickCard("fa-headphones", t("section_audios"), "audios.html")}
+        <div class="mt-4">
+          <div class="home-quick-wrapper">
+            <div class="home-quick-grid">
+              ${quickCard("fa-book-quran", t("section_quran"), "quran.html")}
+              ${quickCard("fa-book", t("section_books"), "books.html")}
+              ${quickCard(
+                "fa-newspaper",
+                t("section_articles"),
+                "articles.html"
+              )}
+              ${quickCard("fa-video", t("section_videos"), "videos.html")}
+              ${quickCard("fa-headphones", t("section_audios"), "audios.html")}
+            </div>
+          </div>
         </div>
       </div>
 
